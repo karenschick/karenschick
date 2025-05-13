@@ -56,7 +56,7 @@ Live site: [karenschick.dev](https://karenschick.github.io/portfolio-karenschick
 ---
 
 📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/karenschick) | [Portfolio]([https://karenschick.dev](https://karenschick.github.io/portfolio-karenschick/)) | [Email](mailto:karenschick.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/karenschick) | [Portfolio](https://karenschick.github.io/portfolio-karenschick/) | [Email](mailto:karenschick.dev@gmail.com)
 
 
   
