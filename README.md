@@ -18,6 +18,11 @@ Git | GitHub | Vite | Postman | VS Code | MongoDB Atlas | Chrome DevTools | Wind
 ---
 
 ## 🚀 Projects
+🔗 **[portfolio-karenschick](https://github.com/karenschick/portfolio-karenschick)**  
+*A modern, responsive portfolio built with React and GitHub Pages.*  
+`React | Tailwind CSS | Framer Motion`
+Live site: [karenschick.dev](https://karenschick.github.io/portfolio-karenschick/)
+
 🔗 **[picsbyschick](https://github.com/karenschick/picsbyschick)**  
 *Photography portfolio showcasing my work in nature, wildlife, and floral photography.*  
 `React | Tailwind CSS | Framer Motion | GitHub Pages`  
@@ -25,10 +30,6 @@ Git | GitHub | Vite | Postman | VS Code | MongoDB Atlas | Chrome DevTools | Wind
 🔗 **[Vinyl Village](https://github.com/karenschick/vinylVillage)**  
 *Social platform for vinyl collectors to share their music libraries and explore others’ collections.*  
 `MERN Stack | Auth | CRUD | REST API`
-
-🔗 **[portfolio-karenschick](https://github.com/karenschick/portfolio-karenschick)**  
-*A modern, responsive portfolio built with React and GitHub Pages.*  
-`React | Tailwind CSS | Framer Motion`
 
 🔗 **[CS300 Data Structures & Algorithms](https://github.com/karenschick/cs300-data-structures)**  
 *Academic project analyzing time complexity and data structure performance.*  
@@ -55,7 +56,7 @@ Git | GitHub | Vite | Postman | VS Code | MongoDB Atlas | Chrome DevTools | Wind
 ---
 
 📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/karenschick) | [Portfolio](https://karenschick.dev) | [Email](mailto:karenschick.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/karenschick) | [Portfolio]([https://karenschick.dev](https://karenschick.github.io/portfolio-karenschick/)) | [Email](mailto:karenschick.dev@gmail.com)
 
 
   
