@@ -35,14 +35,13 @@ Live site: [karenschick.dev](https://karenschick.github.io/portfolio-karenschick
 *Academic project analyzing time complexity and data structure performance.*  
 `Java | Pseudocode | Big-O Analysis`
 
-*(More projects coming soon: QA automation, CSV tools, and mock claims validation tools.)*
+
 
 ---
 
 ## 🎯 Currently Working On
 
 - Finishing my Bachelor's in Computer Science (expected 2026)
-- Applying for summer internships 
 - Expanding my portfolio with personal projects and open source contributions
 
 ---
