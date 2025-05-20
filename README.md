@@ -42,7 +42,7 @@ Live site: [karenschick.dev](https://karenschick.github.io/portfolio-karenschick
 ## 🎯 Currently Working On
 
 - Finishing my Bachelor's in Computer Science (expected 2026)
-- Applying for summer internships in IT, development, and QA
+- Applying for summer internships 
 - Expanding my portfolio with personal projects and open source contributions
 
 ---
@@ -56,7 +56,7 @@ Live site: [karenschick.dev](https://karenschick.github.io/portfolio-karenschick
 ---
 
 📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/karenschick) | [Portfolio](https://karenschick.github.io/portfolio-karenschick/) | [Email](mailto:karenschick.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/karenschick) | [Portfolio](https://karenschick.github.io/portfolio-karenschick/) | [Email](mailto:karen.schick6@gmail.com)
 
 
   
